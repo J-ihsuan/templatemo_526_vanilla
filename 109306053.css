@@ -1,0 +1,45 @@
+
+body{
+	background-image:url('background.jpg');
+	background-position:center;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+<style>
+h1{
+	color:black;
+	font-family:fantasy;
+	margin-top: 1%;
+	margin-left: 5%;
+	margin-right: auto;
+}
+h1{
+	color:black;
+	font-family:fantasy;
+	margin-left: 5%;
+	margin-right: auto;
+}
+b{
+	font-family:fantasy;
+	margin-left: 10%;
+}
+b{
+	font-family:fantasy;
+	margin-left: 10%;
+}
+.cat{
+	background-image: url('cat.jpg');
+	background-repeat: no-repeat;
+	background-size: 384px 256px;
+	height: 256px;
+	width: 384px;
+	margin-left: 11%;
+}
+p{
+	margin-left: 10%;
+	margin-right: 83%;
+	border-color: #C0C0C0;
+	border-style: outset;
+}
+</style>
